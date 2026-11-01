@@ -1,0 +1,5 @@
+video.py
+bot_venv/
+channel_state.json
+filebrowser.db
+sessions.json

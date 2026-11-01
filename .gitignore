@@ -3,3 +3,4 @@ bot_venv/
 channel_state.json
 filebrowser.db
 sessions.json
+__pycache__/
